@@ -1,4 +1,4 @@
-# Interview Tasks
+# Tasks
 
 You need to expose functionalities similar to a HRIS system.
 You are given a json file containing employee informations.
